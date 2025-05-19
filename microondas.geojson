@@ -1,0 +1,141 @@
+{
+    "type": "FeatureCollection",
+    "features":[
+        {
+            "type": "Feature",
+            "geometry":{
+                "type":"point",
+                "coordinates":[4.619624, -74.067562]
+            },
+            "properties":{
+                "marca":"Electrolux",
+                "alto": 26.2,
+                "ancho":45.2,
+                "profundidad":34.4,
+                "modelo":"EMDO20S3GSLUG",
+                "voltaje":"NE",
+                "precio":312.000,
+                "potencia":950
+            }
+        }
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"point",
+                "coordinates":[4.640250, -74.066020]
+            },
+            "properties":{
+                "marca":"MIDEA",
+                "alto": 25.8,
+                "ancho":44.7,
+                "profundidad":32,
+                "modelo":"MMDF07S2MB",
+                "voltaje":"NE",
+                "precio":289.900,
+                "potencia":700
+            }
+        }
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"point",
+                "coordinates":[4.616669, -74.071486]
+            },
+            "properties":{
+                "marca":"Whirlpool",
+                "alto": 26.2,
+                "ancho":45.5,
+                "profundidad":31.5,
+                "modelo":"WM1807D",
+                "voltaje":120,
+                "precio":309.900,
+                "potencia":700
+            }
+        }
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"point",
+                "coordinates":[4.634132, -74.065581]
+            },
+            "properties":{
+                "marca":"Haceb",
+                "alto": 25.4,
+                "ancho":43.7,
+                "profundidad":30.4,
+                "modelo":"9003164",
+                "voltaje":120,
+                "precio":329.600,
+                "potencia":1050
+            }
+        }
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"point",
+                "coordinates":[4.634132, -74.065581]
+            },
+            "properties":{
+                "marca":"Haceb",
+                "alto": ,
+                "ancho":,
+                "profundidad":,
+                "modelo":"9003164",
+                "voltaje":120,
+                "precio":329.600,
+                "potencia":1050
+            }
+        }
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"point",
+                "coordinates":[4.634132, -74.065581]
+            },
+            "properties":{
+                "marca":"Haceb",
+                "alto": 25.4,
+                "ancho":43.7,
+                "profundidad":30.4,
+                "modelo":"9003164",
+                "voltaje":120,
+                "precio":329.600,
+                "potencia":1050
+            }
+        }
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"point",
+                "coordinates":[4.634132, -74.065581]
+            },
+            "properties":{
+                "marca":"Haceb",
+                "alto": 25.4,
+                "ancho":43.7,
+                "profundidad":30.4,
+                "modelo":"9003164",
+                "voltaje":120,
+                "precio":329.600,
+                "potencia":1050
+            }
+        }
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"point",
+                "coordinates":[4.634132, -74.065581]
+            },
+            "properties":{
+                "marca":"Haceb",
+                "alto": 25.4,
+                "ancho":43.7,
+                "profundidad":30.4,
+                "modelo":"9003164",
+                "voltaje":120,
+                "precio":329.600,
+                "potencia":1050
+            }
+        }
+    ]
+}
