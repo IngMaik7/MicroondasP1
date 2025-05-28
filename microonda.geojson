@@ -1,0 +1,175 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.619624, -74.067562]
+      },
+      "properties": {
+        "marca": "Electrolux",
+        "alto": 26.2,
+        "ancho": 45.2,
+        "profundidad": 34.4,
+        "modelo": "EMDO20S3GSLUG",
+        "voltaje": "NE",
+        "precio": 312.000,
+        "potencia":950 
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.640202, -74.066109]
+      },
+      "properties": {
+        "marca": "Midea",
+        "alto": 21.3,
+        "ancho": 43.7,
+        "profundidad": 32.2,
+        "modelo": "MMDF07S2MB",
+        "voltaje": "NE",
+        "precio": 289.900,
+        "potencia":700 
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.598714, -74.075209]
+      },
+      "properties": {
+        "marca": "Samsung",
+        "alto": 23.6,
+        "ancho": 44.1,
+        "profundidad": 32.7,
+        "modelo": "MS23K3513AK",
+        "voltaje": "NE",
+        "precio":349.384 ,
+        "potencia":1200 
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.616608, -74.071445]
+      },
+      "properties": {
+        "marca": "Whirlpool",
+        "alto": 24.8,
+        "ancho": 43.3,
+        "profundidad": 31.7,
+        "modelo": "WM1807D",
+        "voltaje": "NE",
+        "precio":309.900 ,
+        "potencia":700
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.617096, -74.089737]
+      },
+      "properties": {
+        "marca": "LG",
+        "alto": 28.9,
+        "ancho": 50.8,
+        "profundidad": 39.8,
+        "modelo": "MS3032JAS",
+        "voltaje":120,
+        "precio":449.900 ,
+        "potencia":700 
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.569444, -74.100079]
+      },
+      "properties": {
+        "marca": "Samsung",
+        "alto": 27.5,
+        "ancho": 48.9,
+        "profundidad": 39.4,
+        "modelo": "MG23DG4524AT",
+        "voltaje":120,
+        "precio":403.150,
+        "potencia":750 
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.611008, -74.094713]
+      },
+      "properties": {
+        "marca": "Kalley",
+        "alto": 32.4,
+        "ancho": 44,
+        "profundidad": 25.8,
+        "modelo": "K-MW07N",
+        "voltaje":120,
+        "precio":269.900,
+        "potencia":700
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.647027, -74.128537]
+      },
+      "properties": {
+        "marca": "GE",
+        "alto": 26.2,
+        "ancho": 45.2,
+        "profundidad":36,
+        "modelo": "MGE07SEJ",
+        "voltaje":120,
+        "precio":299.900,
+        "potencia":700
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.679307, -74.085045]
+      },
+      "properties": {
+        "marca": "HACEB",
+        "alto": 26.2,
+        "ancho": 45.2,
+        "profundidad":36,
+        "modelo": "9002065",
+        "voltaje":120,
+        "precio":309.900,
+        "potencia":1100
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.634057, -74.065493]
+      },
+      "properties": {
+        "marca": "GENERAL ELECTRIC",
+        "alto": 26.2,
+        "ancho": 45.2,
+        "profundidad":34,
+        "modelo": "M07SEJ",
+        "voltaje":120,
+        "precio":270.450,
+        "potencia":1100
+      }
+    }
+  ]
+}
